@@ -1,2 +1,1 @@
-# FlashCard-Q-A
-Flashcard Q&amp;A is a learning tool that uses question-and-answer pairs to help users memorize and review information through quick, interactive recall.
+Flashcard Q&A is a lightweight, interactive study tool that helps users learn and retain information efficiently through a question-and-answer format. Each flashcard presents a question on one side and reveals the answer on the flip side, promoting active recall and self-assessment.
